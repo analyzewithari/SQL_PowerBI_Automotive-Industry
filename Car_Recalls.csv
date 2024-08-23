@@ -1,0 +1,164 @@
+Date,Car_ID,System_Affected,Units,Model
+"Friday, December 27, 2024",147160,Tires,12623,Champlain
+"Wednesday, December 25, 2024",99110,Tires,1337,Salish
+"Tuesday, December 24, 2024",87110,Powertrain,1905,Beaufort
+"Sunday, December 22, 2024",26151,Engine,4019,Hudson
+"Sunday, December 8, 2024",147160,Suspension,12978,Champlain
+"Friday, November 29, 2024",132120,Tires,6968,Labrador
+"Thursday, October 31, 2024",132120,Electrical,6358,Labrador
+"Sunday, October 13, 2024",99110,Lights And Instruments,14918,Salish
+"Saturday, September 21, 2024",87110,Airbag,13899,Beaufort
+"Sunday, August 25, 2024",99110,Powertrain,7637,Salish
+"Sunday, August 25, 2024",26151,Tires,11213,Hudson
+"Friday, August 16, 2024",147160,Other,14346,Champlain
+"Sunday, August 11, 2024",132120,Suspension,811,Labrador
+"Friday, August 2, 2024",87110,Visual System,6798,Beaufort
+"Sunday, July 28, 2024",26151,Fuel Supply,402,Hudson
+"Thursday, July 25, 2024",99110,Powertrain,1179,Salish
+"Wednesday, July 10, 2024",87110,Engine,10676,Beaufort
+"Friday, June 28, 2024",26151,Visual System,8546,Hudson
+"Monday, June 10, 2024",147160,Tires,8240,Champlain
+"Tuesday, May 28, 2024",132120,Steering,8868,Labrador
+"Friday, May 24, 2024",147160,Fuel Supply,4048,Champlain
+"Friday, May 17, 2024",99110,Steering,14022,Salish
+"Friday, May 10, 2024",132120,Visual System,2493,Labrador
+"Thursday, May 2, 2024",87110,Electrical,13874,Beaufort
+"Wednesday, April 24, 2024",26151,Fuel Supply,8175,Hudson
+"Monday, April 22, 2024",147160,Airbag,9866,Champlain
+"Wednesday, April 17, 2024",132120,Engine,14190,Labrador
+"Tuesday, April 16, 2024",99110,Steering,5044,Salish
+"Monday, March 25, 2024",87110,Seats And Restraints,3396,Beaufort
+"Friday, March 15, 2024",26151,Other,11897,Hudson
+"Wednesday, March 13, 2024",99110,Lights And Instruments,12528,Salish
+"Thursday, March 7, 2024",147160,Engine,6051,Champlain
+"Tuesday, February 27, 2024",132120,Tires,13499,Labrador
+"Thursday, February 1, 2024",87110,Visual System,4357,Beaufort
+"Thursday, February 1, 2024",99110,Engine,3300,Salish
+"Thursday, January 18, 2024",87110,Visual System,7252,Beaufort
+"Thursday, January 18, 2024",26151,Visual System,8572,Hudson
+"Saturday, July 8, 2023",26151,Powertrain,2683,Hudson
+"Thursday, June 22, 2023",147160,Suspension,12429,Champlain
+"Wednesday, May 31, 2023",132120,Structure,11331,Labrador
+"Tuesday, May 2, 2023",99110,Structure,8674,Salish
+"Saturday, April 29, 2023",87110,Suspension,8687,Beaufort
+"Thursday, April 27, 2023",26151,Powertrain,4273,Hudson
+"Wednesday, April 19, 2023",147160,Seats And Restraints,11940,Champlain
+"Tuesday, April 18, 2023",132120,Airbag,11300,Labrador
+"Friday, April 14, 2023",99110,Airbag,3346,Salish
+"Sunday, April 9, 2023",87110,Airbag,2813,Beaufort
+"Saturday, April 8, 2023",26151,Other,10335,Hudson
+"Wednesday, April 5, 2023",147160,Visual System,405,Champlain
+"Saturday, March 25, 2023",132120,Engine,7626,Labrador
+"Wednesday, March 22, 2023",99110,Structure,1058,Salish
+"Monday, March 20, 2023",87110,Airbag,7320,Beaufort
+"Sunday, March 19, 2023",26151,Steering,1615,Hudson
+"Saturday, March 18, 2023",147160,Suspension,9248,Champlain
+"Wednesday, March 15, 2023",132120,Airbag,2830,Labrador
+"Friday, March 10, 2023",99110,Airbag,2953,Salish
+"Wednesday, March 8, 2023",87110,Lights And Instruments,10570,Beaufort
+"Saturday, February 25, 2023",26151,Airbag,6390,Hudson
+"Sunday, February 19, 2023",147160,Seats And Restraints,6935,Champlain
+"Saturday, February 18, 2023",132120,Fuel Supply,8673,Labrador
+"Thursday, February 16, 2023",99110,Tires,1806,Salish
+"Wednesday, February 15, 2023",87110,Other,11581,Beaufort
+"Wednesday, February 8, 2023",26151,Engine,9984,Hudson
+"Saturday, January 28, 2023",147160,Visual System,4347,Champlain
+"Friday, January 27, 2023",132120,Lights And Instruments,2556,Labrador
+"Saturday, January 14, 2023",99110,Other,1576,Salish
+"Tuesday, January 3, 2023",87110,Brakes,9679,Beaufort
+"Friday, July 8, 2022",26151,Powertrain,3165,Hudson
+"Wednesday, June 22, 2022",147160,Suspension,14452,Champlain
+"Tuesday, May 31, 2022",132120,Structure,13626,Labrador
+"Monday, May 2, 2022",99110,Structure,9606,Salish
+"Friday, April 29, 2022",87110,Suspension,9779,Beaufort
+"Wednesday, April 27, 2022",26151,Powertrain,4854,Hudson
+"Tuesday, April 19, 2022",147160,Seats And Restraints,14096,Champlain
+"Monday, April 18, 2022",132120,Airbag,14179,Labrador
+"Thursday, April 14, 2022",99110,Airbag,4012,Salish
+"Saturday, April 9, 2022",87110,Airbag,2103,Beaufort
+"Friday, April 8, 2022",26151,Other,12476,Hudson
+"Tuesday, April 5, 2022",147160,Visual System,449,Champlain
+"Friday, March 25, 2022",132120,Engine,8291,Labrador
+"Tuesday, March 22, 2022",99110,Structure,1381,Salish
+"Sunday, March 20, 2022",87110,Airbag,8436,Beaufort
+"Saturday, March 19, 2022",26151,Steering,2051,Hudson
+"Friday, March 18, 2022",147160,Suspension,11834,Champlain
+"Tuesday, March 15, 2022",132120,Airbag,3506,Labrador
+"Thursday, March 10, 2022",99110,Airbag,3112,Salish
+"Tuesday, March 8, 2022",87110,Lights And Instruments,13322,Beaufort
+"Friday, February 25, 2022",26151,Airbag,7672,Hudson
+"Saturday, February 19, 2022",147160,Seats And Restraints,8803,Champlain
+"Friday, February 18, 2022",132120,Fuel Supply,9683,Labrador
+"Wednesday, February 16, 2022",99110,Tires,2313,Salish
+"Tuesday, February 15, 2022",87110,Other,12814,Beaufort
+"Tuesday, February 8, 2022",26151,Engine,12752,Hudson
+"Friday, January 28, 2022",147160,Visual System,5361,Champlain
+"Thursday, January 27, 2022",132120,Lights And Instruments,3054,Labrador
+"Friday, January 14, 2022",99110,Other,2008,Salish
+"Monday, January 3, 2022",87110,Brakes,10197,Beaufort
+"Friday, December 24, 2021",26151,Seats And Restraints,10784,Hudson
+"Sunday, December 19, 2021",147160,Steering,12482,Champlain
+"Saturday, December 18, 2021",132120,Suspension,14718,Labrador
+"Tuesday, November 30, 2021",99110,Tires,5401,Salish
+"Saturday, November 27, 2021",87110,Airbag,10476,Beaufort
+"Monday, November 15, 2021",26151,Airbag,7099,Hudson
+"Friday, November 5, 2021",147160,Powertrain,75,Champlain
+"Monday, October 18, 2021",99110,Seats And Restraints,14208,Salish
+"Monday, October 18, 2021",132120,Airbag,390,Labrador
+"Tuesday, October 12, 2021",87110,Airbag,7450,Beaufort
+"Monday, October 11, 2021",26151,Airbag,8432,Hudson
+"Wednesday, October 6, 2021",147160,Visual System,7517,Champlain
+"Tuesday, October 5, 2021",132120,Tires,9790,Labrador
+"Friday, October 1, 2021",99110,Airbag,7808,Salish
+"Tuesday, September 21, 2021",26151,Seats And Restraints,10097,Hudson
+"Tuesday, September 21, 2021",87110,Fuel Supply,11593,Beaufort
+"Friday, September 17, 2021",147160,Powertrain,14882,Champlain
+"Sunday, September 12, 2021",132120,Electrical,4099,Labrador
+"Saturday, August 14, 2021",99110,Structure,8288,Salish
+"Wednesday, August 11, 2021",87110,Suspension,12910,Beaufort
+"Tuesday, August 10, 2021",26151,Electrical,2932,Hudson
+"Wednesday, August 4, 2021",147160,Seats And Restraints,2624,Champlain
+"Saturday, July 24, 2021",132120,Steering,4978,Labrador
+"Tuesday, July 6, 2021",99110,Powertrain,12024,Salish
+"Thursday, July 1, 2021",87110,Engine,10104,Beaufort
+"Thursday, June 10, 2021",26151,Airbag,3459,Hudson
+"Monday, May 31, 2021",147160,Engine,1621,Champlain
+"Thursday, May 13, 2021",132120,Seats And Restraints,13190,Labrador
+"Tuesday, April 13, 2021",99110,Tires,6483,Salish
+"Monday, March 15, 2021",87110,Powertrain,14339,Beaufort
+"Monday, March 8, 2021",26151,Suspension,4476,Hudson
+"Sunday, January 17, 2021",147160,Powertrain,6428,Champlain
+"Wednesday, January 6, 2021",132120,Visual System,14300,Labrador
+"Thursday, December 24, 2020",26151,Seats And Restraints,10784,Hudson
+"Saturday, December 19, 2020",147160,Steering,12482,Champlain
+"Friday, December 18, 2020",132120,Suspension,14718,Labrador
+"Monday, November 30, 2020",99110,Tires,5401,Salish
+"Friday, November 27, 2020",87110,Airbag,10476,Beaufort
+"Sunday, November 15, 2020",26151,Airbag,7099,Hudson
+"Thursday, November 5, 2020",147160,Powertrain,75,Champlain
+"Sunday, October 18, 2020",99110,Seats And Restraints,14208,Salish
+"Sunday, October 18, 2020",132120,Airbag,390,Labrador
+"Monday, October 12, 2020",87110,Airbag,7450,Beaufort
+"Sunday, October 11, 2020",26151,Airbag,8432,Hudson
+"Tuesday, October 6, 2020",147160,Visual System,7517,Champlain
+"Monday, October 5, 2020",132120,Tires,9790,Labrador
+"Thursday, October 1, 2020",99110,Airbag,7808,Salish
+"Monday, September 21, 2020",26151,Seats And Restraints,10097,Hudson
+"Monday, September 21, 2020",87110,Fuel Supply,11593,Beaufort
+"Thursday, September 17, 2020",147160,Powertrain,14882,Champlain
+"Saturday, September 12, 2020",132120,Electrical,4099,Labrador
+"Friday, August 14, 2020",99110,Structure,8288,Salish
+"Tuesday, August 11, 2020",87110,Suspension,12910,Beaufort
+"Monday, August 10, 2020",26151,Electrical,2932,Hudson
+"Tuesday, August 4, 2020",147160,Seats And Restraints,2624,Champlain
+"Friday, July 24, 2020",132120,Steering,4978,Labrador
+"Monday, July 6, 2020",99110,Powertrain,12024,Salish
+"Wednesday, July 1, 2020",87110,Engine,10104,Beaufort
+"Wednesday, June 10, 2020",26151,Airbag,3459,Hudson
+"Sunday, May 31, 2020",147160,Engine,1621,Champlain
+"Wednesday, May 13, 2020",132120,Seats And Restraints,13190,Labrador
+"Monday, April 13, 2020",99110,Tires,6483,Salish
+"Sunday, March 15, 2020",87110,Powertrain,14339,Beaufort
+"Sunday, March 8, 2020",26151,Suspension,4476,Hudson
+"Friday, January 17, 2020",147160,Powertrain,6428,Champlain
+"Monday, January 6, 2020",132120,Visual System,14300,Labrador
