@@ -1,0 +1,5 @@
+/*DATABASE CREATION AND DATA INSERTION*/
+
+CREATE DATABASE Automotive_Industry;
+
+/*Users*/
