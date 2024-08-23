@@ -40,4 +40,7 @@ There are 7 tables:
 - Can we identify best practices for dealer management and training?
 
 ## Data Visualization 
+*See the **[Interactive Dashboard](https://)** live on my Tableau Public profile.*  
 
+
+![Data Analysis Dashboard](.png)
