@@ -15,7 +15,7 @@ There are 7 tables:
 
 **Customer Sentiment Analysis:**
 
-- What are the most common negative sentiments expressed by customers?
+- What are the most common sentiments expressed by time?
 - Are there specific car models or features that frequently lead to negative sentiment?
 - How does customer sentiment correlate with safety recalls or other product issues?
 - Can we identify patterns in customer sentiment over time (e.g., seasonal trends, changes after product updates)?
