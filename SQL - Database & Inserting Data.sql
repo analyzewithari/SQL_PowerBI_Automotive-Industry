@@ -4,10 +4,13 @@ CREATE DATABASE Automotive_Industry;
 
 /*Sentiment*/
 CREATE TABLE Sentiment (
-	Postal_Code INT PRIMARY KEY,	
+	Postal_Code INT,	
 	Date DATE,	
 	Sentiment VARCHAR(50) NOT NULL,
-	Year INT
+	Year INT,
+	FOREIGN KEY (Postal_Code)
+        REFERENCES Dealers (Zip_Code)
+
 );
 -- ----------------------------------------------------------------------------------------------------
 
@@ -17,7 +20,7 @@ CREATE TABLE Dealers (
 	Country VARCHAR(255) NOT NULL,
 	State VARCHAR(255) NOT NULL,
 	City VARCHAR(255) NOT NULL,
-	Zip_Code VARCHAR(255) NOT NULL,
+	Zip_Code INT PRIMARY KEY ,
 	Address VARCHAR(255) NOT NULL,
 	Dealer_Name VARCHAR(255) NOT NULL,
 	Contact_Name VARCHAR(255) NOT NULL,
