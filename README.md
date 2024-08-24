@@ -15,29 +15,28 @@ There are 7 tables:
 
 **Dealers Sentiment Analysis:**
 
-- What are the most common sentiments expressed by time?
-- Are there specific Dealer that frequently lead to negative sentiment by Year
-- Can we identify patterns in dealer sentiment over time (e.g., seasonal trends)?
-
+- What are the most common sentiments expressed by Dealer
+- Are there specific Dealer that frequently lead to negative sentiment by Year?
+- Can we identify patterns in dealer negative sentiment over time (e.g., seasonal trends)?
 
 **Sales Performance Analysis:**
 
-- Which car models are the most popular sellers?
-- How do sales correlate with factors like weather, economic conditions, or competitive pricing?
-- Are there any significant differences in sales performance between different dealer locations or regions?
-- Can we identify factors that contribute to the success or failure of specific car models?
+- Which car models are the most popular by Year (Average Sales)?
+- How do sales correlate between models and dealers?
+- Which car dealers are the most popular by Year (Average Sales)
+- Identify patterns in Dealers with Average Sales over time (e.g., seasonal trends)?
+- Identify patterns in Models with Average Sales over time (e.g., seasonal trends)?
+- Can we identify any factors that contribute between dealers and car models?
 
-**Safety Recall Analysis:**
+**Recall Analysis:**
 
-- What types of safety recalls are most common?
-- How do safety recalls impact customer sentiment and sales?
-- Are there any patterns in safety recalls related to specific car models or manufacturers?
+- What types of system affected to recalls are most common?
+- How do system affected to recall of Model most common by Years?
 
 **Dealer Performance Analysis:**
 
-- How do individual dealers vary in terms of sales performance and customer satisfaction?
 - Are there any factors (e.g., location, training, resources) that contribute to dealer success or failure?
-- Can we identify best practices for dealer management and training?
+- Can we identify best condition for dealer making sale?
 
 ## Data Visualization 
 *See the **[Interactive Dashboard](https://)** live on my Tableau Public profile.*  
