@@ -1,5 +1,5 @@
 # Project Overview
-This MySQL project is the historical trends in car sales for SwiftAuto Traders. The goal is to provide insights on car sales and profits for each dealer. MySQL is the language used to create the database and analyse it. And Tableau is used to visualize the dataset.
+This MySQL project is the historical trends in car sales for SwiftAuto Traders. The goal is to provide insights on car sales and profits for each dealer. MySQL is the language used to create the database and analyse it. And PowerBI is used to visualize the dataset.
 ## Data and Exploration
 ### - Dataset <br />
 The database **Automotive_Industry** is created using SQL.
