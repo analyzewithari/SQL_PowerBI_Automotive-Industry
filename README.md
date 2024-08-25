@@ -39,7 +39,9 @@ There are 7 tables:
 - Can we identify best condition for dealer making sale?
 
 ## Data Visualization 
-*See the **[Interactive Dashboard](https://)** live on my Tableau Public profile.*  
+*See the **[Interactive Dashboard](https://app.powerbi.com/view?r=eyJrIjoiYmI3MjdlODMtMDE5NC00ZTM1LWE5ZGQtNDE0NDI5ZTIyZDg2IiwidCI6ImU3ODBlNTYxLTBiZTUtNDU4My1hYWFlLTIxYjk0YWM0NDlmMiIsImMiOjEwfQ%3D%3D)** live on my Tableau Public profile.*  
 
 
-![Data Analysis Dashboard](.png)
+![image](https://github.com/user-attachments/assets/6d928099-59e1-4900-9619-dc28c437a644)
+![image](https://github.com/user-attachments/assets/da7057fe-cc48-447d-9504-c7fc530b46cb)
+
